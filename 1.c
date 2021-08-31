@@ -2,7 +2,7 @@
 *   Copyright (C) 2021 hqyj Ltd. All rights reserved.
 *   
 *   文件名称：1.c
-*   创 建 者：cym
+*   创 建 者：lyp
 *   创建日期：2021年08月31日
 *   描    述：
 *
@@ -14,7 +14,7 @@
 
 int main(int argc, char *argv[])
 {
-	
+	printf("iiisjias\n");
 	
 	return 0;
 }
